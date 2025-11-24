@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishad-aboobaker&label=Profile%20views&color=0e75b6&style=flat" alt="nishad-aboobaker" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishad-aboobaker" alt="nishad-aboobaker" /></a> </p>
+<p align="left"> <a href="https://github.com/nishad-aboobaker/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishad-aboobaker" alt="nishad-aboobaker" /></a> </p>
 
 - 🌱 I’m currently learning **c#, .net core , sql server, ADO.net**
 
