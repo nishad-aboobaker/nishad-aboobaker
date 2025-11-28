@@ -44,9 +44,9 @@
 ---
 
 ### 📊 GitHub Stats  
-<img align="center" width=33% src="https://github-readme-stats.vercel.app/api/top-langs?username=nishad-aboobaker&show_icons=true&layout=compact" />
+<img align="center" width=33% src="https://github-readme-stats.vercel.app/api/top-langs?username=nishad-aboobaker&show_icons=true&layout=compact" /> <img align="center" width=33% src="https://github-readme-stats.vercel.app/api?username=nishad-aboobaker&show_icons=true" />
 
-<img align="center" width=33% src="https://github-readme-stats.vercel.app/api?username=nishad-aboobaker&show_icons=true" />
+
 
 <img align="center" width=33% src="https://github-readme-streak-stats.herokuapp.com/?user=nishad-aboobaker" />
 
