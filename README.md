@@ -44,7 +44,7 @@
 ---
 
 ### 📊 GitHub Stats  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishad-aboobaker&show_icons=true&layout=compact" /></p>
+<p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=nishad-aboobaker&show_icons=true&layout=compact" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nishad-aboobaker&show_icons=true" /></p>
 
