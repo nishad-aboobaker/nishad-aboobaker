@@ -44,10 +44,10 @@
 ---
 
 ### 📊 GitHub Stats  
-<p><img align="center" width=33% src="https://github-readme-stats.vercel.app/api/top-langs?username=nishad-aboobaker&show_icons=true&layout=compact" /></p>
+<img align="center" width=33% src="https://github-readme-stats.vercel.app/api/top-langs?username=nishad-aboobaker&show_icons=true&layout=compact" />
 
-<p><img align="center" width=33% src="https://github-readme-stats.vercel.app/api?username=nishad-aboobaker&show_icons=true" /></p>
+<img align="center" width=33% src="https://github-readme-stats.vercel.app/api?username=nishad-aboobaker&show_icons=true" />
 
-<p><img align="center" width=33% src="https://github-readme-streak-stats.herokuapp.com/?user=nishad-aboobaker" /></p>
+<img align="center" width=33% src="https://github-readme-streak-stats.herokuapp.com/?user=nishad-aboobaker" />
 
 ---
