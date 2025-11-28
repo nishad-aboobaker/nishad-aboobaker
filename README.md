@@ -17,7 +17,7 @@
 ---
 
 ### 🌐 Connect With Me  
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/nishadpp" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="https://instagram.com/nishad_aboobaker_" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nishad-aboobaker" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
@@ -44,7 +44,7 @@
 ---
 
 ### 📊 GitHub Stats  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishad-aboobaker&show_icons=true&layout=compact" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishad-aboobaker&show_icons=true&layout=compact" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nishad-aboobaker&show_icons=true" /></p>
 
