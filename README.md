@@ -11,7 +11,7 @@
 - 🌱 Currently learning **C#, .NET Core, SQL Server, ADO.NET**  
 - 💬 Ask me about **Angular, MERN, .NET Fullstack**  
 - 👨‍💻 Explore all my projects:  
-  **https://nishad-aboobaker.github.io/personal-portfolio/**  
+  **https://nishadaboobaker.online**  
 - 📫 Reach me at: **mail.nishadaboobaker@gmail.com**
 
 ---
