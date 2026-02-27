@@ -7,7 +7,7 @@
 
 <!-- Typing Banner -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=🚀+MEAN+Stack+Developer;🔧+Building+Scalable+REST+APIs;⚡+Angular+%7C+Node.js+%7C+Express+%7C+MongoDB;🎯+Clean+Code+Enthusiast;✨+Open+to+Exciting+Opportunities!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&multiline=false&lines=MEAN+Stack+Developer;Building+Scalable+REST+APIs;Angular+%7C+Node.js+%7C+Express+%7C+MongoDB;Clean+Code+Enthusiast;Open+to+Exciting+Opportunities%21" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -80,12 +80,14 @@ const nishad = {
 
 <div align="center">
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=nishad-aboobaker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=nishad-aboobaker&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=nishad-aboobaker&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishad-aboobaker&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<br/>
+<br/><br/>
 
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishad-aboobaker&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishad-aboobaker&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nishad-aboobaker&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nishad-aboobaker&theme=tokyonight&utcOffset=5.5" />
 
 </div>
 
@@ -145,10 +147,14 @@ jobs:
 
 ---
 
-## � GitHub Trophies
+## 🏅 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nishad-aboobaker&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nishad-aboobaker&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nishad-aboobaker&theme=tokyonight" />
+<img width="32%" src="https://github-readme-stats.vercel.app/api?username=nishad-aboobaker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+
 </div>
 
 ---
