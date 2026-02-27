@@ -97,43 +97,8 @@ const nishad = {
 
 <div align="center">
 
-> ⚙️ **Setup required:** Add a GitHub Action to generate the snake SVG.
-> Create `.github/workflows/snake.yml` with the code below, then the snake will auto-update daily!
-
-<details>
-<summary>📋 Click to see the GitHub Action setup</summary>
-
-```yaml
-# .github/workflows/snake.yml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: nishad-aboobaker
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
 <!-- After setting up the action, uncomment the line below: -->
-<!-- <img src="https://raw.githubusercontent.com/nishad-aboobaker/nishad-aboobaker/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/nishad-aboobaker/nishad-aboobaker/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
