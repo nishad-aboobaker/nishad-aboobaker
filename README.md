@@ -1,83 +1,122 @@
-<h1 align="center">👋 Hi, I'm Nishad Aboobaker</h1>
+<div align="center">
 
-<h3 align="center">
-MEAN Stack Developer | Angular • Node.js • Express • MongoDB
-</h3>
+<!-- Animated Typing Banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00C2FF&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Nishad+Aboobaker+%F0%9F%91%8B;MEAN+Stack+Developer;Building+Scalable+Web+Applications;Clean+APIs+%7C+Modern+Frontends+%7C+Full-Stack+Solutions" alt="Typing SVG" />
 
-<p align="center">
-Building scalable web applications with clean APIs and modern frontends
+<br/>
+
+<!-- Profile Views & Social Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=nishad-aboobaker&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <a href="https://linkedin.com/in/nishadpp">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mail.nishadaboobaker@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://nishadaboobaker.online">
+    <img src="https://img.shields.io/badge/Portfolio-00C2FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.leetcode.com/nishad-aboobaker">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://instagram.com/nishad_aboobaker_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nishad-aboobaker&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I’m a **MEAN Stack Developer** focused on building full-stack web applications using **Angular, Node.js, Express, and MongoDB**.  
-I enjoy designing RESTful APIs, structuring backend logic, and creating responsive, user-friendly frontends.
+```yaml
+name       : Nishad Aboobaker
+role       : MEAN Stack Developer
+stack      : [ Angular, Node.js, Express.js, MongoDB ]
+focus      : RESTful APIs · JWT Auth · MVC Architecture · Full-Stack Apps
+portfolio  : https://nishadaboobaker.online
+email      : mail.nishadaboobaker@gmail.com
+status     : 🟢 Open to opportunities
+```
 
-- 🌱 Currently strengthening my skills in **Node.js, Express, MongoDB, Angular**
-- 💬 Ask me about **MEAN Stack, REST APIs, JWT Auth, MVC Architecture**
-- 👨‍💻 Portfolio: **[https://nishadaboobaker.online](https://nishadaboobaker.online)**
-- 📫 Email: **mail.nishadaboobaker@gmail.com**
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/nishadpp" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
-  </a>
-  <a href="https://instagram.com/nishad_aboobaker_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/nishad-aboobaker" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" />
-  </a>
-</p>
+> *"Designing APIs, building interfaces, and shipping full-stack solutions — one commit at a time."*
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+<div align="center">
+
+### 🌐 Frontend
 <p>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css&theme=dark" />
 </p>
 
-### Backend
+### ⚙️ Backend
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
 </p>
 
-### Database & Tools
+### 🔧 Tools & Others
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,ps&theme=dark" />
 </p>
+
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishad-aboobaker&layout=compact" />
-  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=nishad-aboobaker&show_icons=true" />
-  <img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=nishad-aboobaker" />
-</p>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nishad-aboobaker&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nishad-aboobaker&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishad-aboobaker&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-<p align="center">
-  <i>“Designing APIs, building interfaces, and shipping full-stack solutions.”</i>
-</p>
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nishad-aboobaker&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishad-aboobaker&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+| Platform | Link |
+|:--------:|:----:|
+| 💼 LinkedIn | [nishadpp](https://linkedin.com/in/nishadpp) |
+| 🌍 Portfolio | [nishadaboobaker.online](https://nishadaboobaker.online) |
+| 📧 Email | [mail.nishadaboobaker@gmail.com](mailto:mail.nishadaboobaker@gmail.com) |
+| 💻 LeetCode | [nishad-aboobaker](https://www.leetcode.com/nishad-aboobaker) |
+| 📸 Instagram | [nishad_aboobaker_](https://instagram.com/nishad_aboobaker_) |
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks+for+visiting!&fontSize=28&fontColor=fff&animation=twinkling" />
+
+</div>
