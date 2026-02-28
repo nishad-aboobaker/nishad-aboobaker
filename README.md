@@ -31,8 +31,8 @@
 ```typescript
 const nishad = {
   name     : "Nishad Aboobaker",
-  role     : "MEAN Stack Developer",
-  stack    : ["Angular", "Node.js", "Express", "MongoDB"],
+  role     : "Full Stack Developer",
+  stack    : ["Angular","React", "Node.js", "Express", "MongoDB"],
   focus    : ["RESTful APIs", "JWT Auth", "MVC Architecture"],
   portfolio: "https://nishadaboobaker.online",
   email    : "mail.nishadaboobaker@gmail.com",
